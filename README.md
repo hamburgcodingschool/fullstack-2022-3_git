@@ -1,4 +1,4 @@
-# {{ Course Name }}
+# Git and GitHub
 ## Full Stack Course - {{ Start Date }}
 
 ### ✏️ Homework
