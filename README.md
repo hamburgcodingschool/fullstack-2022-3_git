@@ -1,5 +1,5 @@
 # Git and GitHub
-## Full Stack Course - {{ Start Date }}
+## Full Stack Course - 2022-3
 
 ### ✏️ Homework
 
